@@ -6,7 +6,7 @@ public class Livraria{
        // System.out.println(livro1.titulo);
        // livro1.cadastrar();
        Livro livro2 = new Livro("Harry ...", 50.99);
-       livro2.cadastrar(); 
+       livro2.  (); 
 
        Livro livro3 = new Livro();
        Livro livro4 = new Livro("Harry ..", 500, 50.99);
